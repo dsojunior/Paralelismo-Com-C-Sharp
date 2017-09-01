@@ -1,0 +1,15 @@
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\bin\Debug\ByteBank.View.exe.config
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\bin\Debug\ByteBank.View.exe
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\bin\Debug\ByteBank.View.pdb
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\bin\Debug\ByteBank.Core.dll
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\bin\Debug\ByteBank.Core.pdb
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\ByteBank.View.csprojResolveAssemblyReference.cache
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\MainWindow.baml
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\MainWindow.g.cs
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\App.g.cs
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\ByteBank.View_MarkupCompile.cache
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\ByteBank.View.g.resources
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\ByteBank.View.Properties.Resources.resources
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\ByteBank.View.csproj.GenerateResource.Cache
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\ByteBank.View.exe
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\ByteBank.View.pdb

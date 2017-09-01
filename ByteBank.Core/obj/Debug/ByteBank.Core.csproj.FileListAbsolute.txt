@@ -1,0 +1,5 @@
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.Core\bin\Debug\ByteBank.Core.dll
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.Core\bin\Debug\ByteBank.Core.pdb
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.Core\obj\Debug\ByteBank.Core.csprojResolveAssemblyReference.cache
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.Core\obj\Debug\ByteBank.Core.dll
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.Core\obj\Debug\ByteBank.Core.pdb
