@@ -13,3 +13,4 @@ C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\De
 C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\ByteBank.View.csproj.GenerateResource.Cache
 C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\ByteBank.View.exe
 C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\ByteBank.View.pdb
+C:\Users\dsojunior\Documents\GitHub\Paralelismo-Com-C-Sharp\ByteBank.View\obj\Debug\ByteBank.View.csproj.CoreCompileInputs.cache
